@@ -61,6 +61,7 @@ footer {
     text-align: center;
     padding-top: 50px;
     color: #ccc;
+    clear: both;
 }
 .social-media-icon {
     width: 20px;
@@ -78,8 +79,15 @@ footer {
     float: left;
     width: 45%;
     margin: 2.5%;
-    background-color: white;
-    color: #bdc3c7;
+    background-color: lightgrey;
+    color:#bdc3c7;
+}
+
+#gallery li a p{
+    margin: 0;
+    padding: 5%;
+    font-size: 0.75em;
+    color:black;
 }
 
 nav a, nav a:visited {
