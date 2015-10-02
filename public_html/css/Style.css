@@ -12,7 +12,7 @@ a:hover {
 #wrapper {
      max-width: 940px;
      margin: 0 auto;
-     background-color: white;
+     background-color: white;   
      padding: 0 5%;
 }
 
@@ -32,6 +32,8 @@ header {
 
 h1, h2 {
     color:#fff;
+    margin: 15px 0;
+    font-size: 1.75em;
 }
 
 nav {
