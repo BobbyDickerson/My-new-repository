@@ -1,1 +1,16 @@
+a {
+    text-decoration: none;
+}
+/********************************
+a:hover {
+    font-weight: bold;
+    font-size: 25px;
+}
+********************************/
 
+#wrapper {
+     max-width: 940px;
+     margin: 0 auto;
+     background-color: lime;
+     padding: 0 5%;
+}
