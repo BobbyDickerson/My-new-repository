@@ -12,13 +12,18 @@ a:hover {
 #wrapper {
      max-width: 940px;
      margin: 0 auto;
-     background-color: lime;
-     padding: 0 5%;v  
+     background-color: white;
+     padding: 0 5%;
 }
 
 #logo {
     text-align: center;    
     margin: 0;
+}
+
+body {
+    background-color: white;
+    color:#999;
 }
 
 header {
@@ -34,5 +39,9 @@ nav {
 }
 
 nav a, nav a:visited {
-    color: #fff;
+    color: #fff; 
+}
+
+nav a.selected, nav a:hover {
+    color: #326737;
 }
