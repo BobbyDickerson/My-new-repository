@@ -5,6 +5,10 @@ a {
 img {
     max-width: 422px;
 }
+
+h3{
+   margin: 0 0 1em 0;
+}
 /********************************
 a:hover {
     font-weight: bold;
@@ -107,6 +111,14 @@ footer {
     padding: 5%;
     font-size: 0.75em;
     color:black;
+}
+
+.profile-photo{
+    display: block;
+    max-width:0auto;
+    border-radius: 15%;
+    width: 700px;
+    height: 400px;
 }
 
 nav a, nav a:visited {
