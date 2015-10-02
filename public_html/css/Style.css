@@ -71,6 +71,10 @@ nav ul{
 nav li{
     display: inline-block;
 }
+nav a{
+    font-weight: 800;
+    padding: 15px 10px;
+}
 footer {
     font-size: 0.75em;
     text-align: center;
