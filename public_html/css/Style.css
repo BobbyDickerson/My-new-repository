@@ -2,6 +2,9 @@ a {
     text-decoration: none;
     color: #6ab47b;
 }
+img {
+    max-width: 422px;
+}
 /********************************
 a:hover {
     font-weight: bold;
@@ -63,6 +66,20 @@ footer {
     width: 20px;
     height: 20px;
     margin: 0 5px;
+}
+
+#gallery{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#gallery li{
+    float: left;
+    width: 45%;
+    margin: 2.5%;
+    background-color: white;
+    color: #bdc3c7;
 }
 
 nav a, nav a:visited {
