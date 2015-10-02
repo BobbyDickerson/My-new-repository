@@ -12,5 +12,10 @@ a:hover {
      max-width: 940px;
      margin: 0 auto;
      background-color: lime;
-     padding: 0 5%;
+     padding: 0 5%;v  
+}
+
+#logo {
+    text-align: center;
+    margin: 0;
 }
