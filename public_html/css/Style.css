@@ -59,6 +59,11 @@ footer {
     padding-top: 50px;
     color: #ccc;
 }
+.social-media-icon {
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+}
 
 nav a, nav a:visited {
     color: #fff; 
