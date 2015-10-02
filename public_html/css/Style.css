@@ -41,10 +41,11 @@ body {
 body {
     background-color: white;
     color:#999;
+    font-family: 'Poiret One', cursive;
 }
 
 header {
-    background: #6ab47b;
+    background: black;
 }
 
 h1 {
@@ -102,15 +103,15 @@ footer {
     float: left;
     width: 45%;
     margin: 2.5%;
-    background-color: lightgrey;
-    color:#bdc3c7;
+    background-color: black;
+    color:black;
 }
 
 #gallery li a p{
     margin: 0;
     padding: 5%;
-    font-size: 0.75em;
-    color:black;
+    font-size: 1em;
+    color:;
 }
 
 .profile-photo{
