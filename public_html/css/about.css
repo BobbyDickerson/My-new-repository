@@ -1,2 +1,8 @@
-
+.profile-photo{
+    display: block;
+    max-width:0auto;
+    border-radius: 15%;
+    width: 700px;
+    height: 400px;
+}
 
