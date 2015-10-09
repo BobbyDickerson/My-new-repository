@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Drawing.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5604"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5606" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5604"
+       id="linearGradient5608"
+       x1="28.90625"
+       y1="343.23557"
+       x2="668.54755"
+       y2="343.23557"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-46.428571"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3336"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Impact;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:url(#linearGradient5608);stroke-width:9.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Impact Condensed';font-stretch:condensed;font-variant:normal;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
+         id="flowRegion3338"
+         style="stroke:url(#linearGradient5608)"><rect
+           id="rect3340"
+           width="645.71429"
+           height="240.00002"
+           x="25.714281"
+           y="280.93365"
+           style="fill:#00ff00;-inkscape-font-specification:'Impact Condensed';font-family:Impact;font-weight:normal;font-style:normal;font-stretch:condensed;font-variant:normal;stroke:url(#linearGradient5608);stroke-width:9.9;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara3342"
+         style="fill:#00ff00;-inkscape-font-specification:'Impact Condensed';font-family:Impact;font-weight:normal;font-style:normal;font-stretch:condensed;font-variant:normal;line-height:126%;word-spacing:24.11002289px;font-size:90px;stroke:url(#linearGradient5608);stroke-opacity:0.95266271;stroke-linecap:round;stroke-width:9.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round">Bobby Dickerson</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3344"
+       style="fill:#00ff00;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Impact;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Impact Condensed';font-stretch:condensed;font-variant:normal;"><flowRegion
+         id="flowRegion3346"><rect
+           id="rect3348"
+           width="28.571428"
+           height="65.714287"
+           x="474.28571"
+           y="392.36221"
+           style="fill:#00ff00;-inkscape-font-specification:'Impact Condensed';font-family:Impact;font-weight:normal;font-style:normal;font-stretch:condensed;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara3350"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3352"
+       style="fill:#00ff00;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Impact;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Impact Condensed';font-stretch:condensed;font-variant:normal;"><flowRegion
+         id="flowRegion3354"><rect
+           id="rect3356"
+           width="282.85715"
+           height="157.14285"
+           x="220"
+           y="320.93362"
+           style="fill:#00ff00;-inkscape-font-specification:'Impact Condensed';font-family:Impact;font-weight:normal;font-style:normal;font-stretch:condensed;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara3358"></flowPara></flowRoot>  </g>
+</svg>
